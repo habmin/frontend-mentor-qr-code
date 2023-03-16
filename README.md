@@ -1,12 +1,12 @@
-<div style="text-align: center;">
+<div align="center">
     <img alt="Desktop View" width="80%" src="screenshots/desktop.png"/> <img alt="Mobile View" width="19%" src="screenshots/mobile.png"/>
 </div>
-<div>
-    <p style="text-align: left; font-style: italic;">Desktop View<span style="float: right;">Mobile View</span></p>
-</div>
-<h1 style="text-align: center;">Frontend Mentor - QR code component solution</h1>
-<div style="text-align: center;">
-    <h2><a href="live">Live Link</a> | <a href="solution">Solution Link</a></h2>
+
+*Desktop (left) and Mobile (right) Views*
+
+<h1 align="center">Frontend Mentor - QR code component solution</h1>
+<div align="center">
+    <h2><a href="https://habmin.github.io/frontend-mentor-qr-code/">Live Link</a> | <a href="https://www.frontendmentor.io/solutions/intro-to-frontend-mentor-qr-code-component-zzYE_QxfFZ">Solution Link</a></h2>
 </div>
 <br>
 
@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-to-frontend-mentor-qr-code-component-zzYE_QxfFZ)
+- Live Site URL: [GitHub Pages](https://habmin.github.io/frontend-mentor-qr-code/)
 
 ## My process
 
