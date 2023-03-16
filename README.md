@@ -1,4 +1,9 @@
-![Desktop Solution](screenshots/desktop.png)
+<div style="text-align: center;">
+    <img alt="Desktop View" width="80%" src="screenshots/desktop.png"/> <img alt="Mobile View" width="19%" src="screenshots/mobile.png"/>
+</div>
+<div>
+    <p style="text-align: left; font-style: italic;">Desktop View<span style="float: right;">Mobile View</span></p>
+</div>
 <h1 style="text-align: center;">Frontend Mentor - QR code component solution</h1>
 <div style="text-align: center;">
     <h2><a href="live">Live Link</a> | <a href="solution">Solution Link</a></h2>
