@@ -6,6 +6,50 @@
 }
 
 body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
     font-family: 'Outfit';
+    justify-content: center;
+    text-align: center;
     background-color: var(--light-gray);
+}
+
+#qr-box {
+    width:min-content;
+    background-color: var(--white);
+    border-radius: 30px;
+    padding: 30px;
+    margin: auto;
+}
+
+#qr-image {
+    border-radius: 20px;
+}
+
+#qr-text {
+    padding: 0 40px 0 40px;
+}
+
+.weight-800 {
+    color: var(--dark-blue);
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.weight-400 {
+    font-weight: 400;
+    font-size: 30px;
+    color: var(--grayish-blue);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
