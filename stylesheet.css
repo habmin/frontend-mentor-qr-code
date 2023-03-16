@@ -8,41 +8,49 @@
 body {
     position: absolute;
     width: 99%;
-    height: 90%;
+    height: 99%;
     display: flex;
     flex-flow: column nowrap;
     font-family: 'Outfit';
     justify-content: center;
     text-align: center;
     background-color: var(--light-gray);
+    margin: 0;
 }
 
 #qr-box {
-    width:min-content;
+    height: auto;
+    width: 75%;
+    max-width: 26em;
     background-color: var(--white);
     border-radius: 30px;
-    padding: 30px;
+    padding: 1.6rem;
     margin: auto;
 }
 
 #qr-image {
+    height: auto;
+    max-width: 100%;
     border-radius: 20px;
 }
 
 #qr-text {
-    padding: 0 40px 0 40px;
+    padding: 0.5em;
 }
 
 .weight-800 {
+    margin: .75rem;
     color: var(--dark-blue);
-    font-size: 40px;
+    font-size: min(5.5vw, 1.8rem);
     font-weight: 800;
 }
 
 .weight-400 {
+    margin: 0;
     font-weight: 400;
-    font-size: 30px;
+    font-size: min(4.1vw, 1.3rem);
     color: var(--grayish-blue);
+    padding: 1rem;
 }
 
 .attribution {
