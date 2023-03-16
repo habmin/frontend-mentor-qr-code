@@ -26,6 +26,7 @@ body {
     border-radius: 30px;
     padding: 1.6rem;
     margin: auto;
+    box-shadow: 0px 8px 15px -10px rgba(29, 29, 29, 0.541);
 }
 
 #qr-image {
