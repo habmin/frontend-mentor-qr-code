@@ -46,3 +46,7 @@ Learned about `object-fit`, though not sure how much browser support it has. Als
 ### Continued development
 
 What I couldn't seem to get to work was scaling the QR code image when rezising the window from the *vertical* axis. I was testing to work with a 1280 x 720 resolution, and I couldn't get the element to resize to prevent overflow/scrollbar showing up. When playing around the div container and QR image, the image would always overflow the parent div container, dispite whatever I tried. Was able to scale when resizing the window's width however, which made mobile view possible.
+
+### Author
+
+- Henry Andrew Baum (habmin)
